@@ -16,3 +16,4 @@ function checkPalindrome(N, str) {
          }
      
 }
+checkPalindrome(5,naman)
